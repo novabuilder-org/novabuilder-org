@@ -24,3 +24,6 @@ The public release, documentation, and extension ecosystem are currently being p
 ## Links
 - Website: https://novabuilder.org
 - Discussions: https://github.com/orgs/novabuilder-org/discussions
+
+
+If you find NovaBuilder useful, consider supporting its development via GitHub Sponsors.
