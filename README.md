@@ -22,7 +22,7 @@ NovaBuilder is under active development.
 The public release, documentation, and extension ecosystem are currently being prepared.
 
 ## Links
-- Website: https://novabuilder.org
+- Website: https://novabuilder.com
 - Discussions: https://github.com/orgs/novabuilder-org/discussions
 
 
