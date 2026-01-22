@@ -33,4 +33,4 @@ to avoid outdated or speculative documentation.
 ## 🔗 Related
 
 - Release artefacts & changelogs: `/release/`
-- Full project releases: https://github.com/novabuilder-org/novabuilder-org/releases
+- Full project releases: https://github.com/novabuilder-org/novabuilder-org/tree/main/releases
