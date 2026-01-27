@@ -28,4 +28,4 @@ It is intentionally separated from `/docs/` to clearly distinguish between:
 ## Related
 
 - Documentation & audits: `/docs/`
-- Full release overview: https://github.com/novabuilder-org/novabuilder-org/releases
+- Full release overview: https://github.com/novabuilder-org/novabuilder-core/releases
